@@ -4,6 +4,8 @@ body {
 h1 {
     color: blue;
     text-align: center;
+    width: 16;
+    right: 20;
 }
 p {
     font-size: 20px;
